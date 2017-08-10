@@ -36,6 +36,10 @@ gem 'jbuilder', '~> 2.5'
 # Use bootstrap to make your pages pretty
 gem 'bootstrap', '~> 4.0.0.alpha6'
 
+# Devise is a flexible authentication solution for Rails based on Warden
+gem 'devise'
+
+
 # Use for Boostrap Tooltips
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
