@@ -39,6 +39,8 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 # Devise is a flexible authentication solution for Rails based on Warden
 gem 'devise'
 
+gem 'activeadmin'
+
 
 # Use for Boostrap Tooltips
 source 'https://rails-assets.org' do
